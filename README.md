@@ -8,6 +8,10 @@ Automatically pauses YouTube videos when you switch tabs/windows and resumes pla
 - **Auto-resume** YouTube videos when you return to the tab.
 - **Simple** and **easy** to use.
 
+## Visual Representation:
+
+![Alt Text](./assets/sr.gif)
+
 ## Setup Instructions
 
 ### Prerequisites
